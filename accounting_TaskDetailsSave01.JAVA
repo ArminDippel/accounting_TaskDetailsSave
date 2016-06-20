@@ -1,5 +1,5 @@
 ﻿package com.scopevisio.webservicekit.examples;
-
+ss
 import javax.xml.soap.MessageFactory;
 import javax.xml.soap.SOAPBody;
 import javax.xml.soap.SOAPElement;
